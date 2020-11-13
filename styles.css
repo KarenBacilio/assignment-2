@@ -16,30 +16,26 @@
 
 .words {
     text-align: center;
-    padding-left: 400px;
-    padding-right: 400px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 
 a:link {
-    text-align: center;
-    text-decoration: none;
-}
-
-a:visited {
-    text-align: center;
     text-decoration: none;
 }
 
 a:hover {
-    text-align: center;
     text-decoration: none;
 }
 
 a:active {
-    text-align: center;
     text-decoration: none;
 }
 
 .links {
+    text-align: center;
+}
+
+ul {
     text-align: center;
 }
