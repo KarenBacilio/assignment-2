@@ -15,9 +15,11 @@
 }
 
 .words {
+    display: flex;
     text-align: center;
-    margin-left: 300px;
-    margin-right: 300px;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 100px 0 100px;
 }
 
 a:link {
